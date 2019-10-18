@@ -28,4 +28,7 @@ In this bundle i have worked on swiftUI and its many characterstics. All these f
  - Padding for spacing
  - Image views
  - Stack alignment and spacing
+ - TextViews(styles, fonts, colors, lineSpacing)
+ - Static labels with TextViews
+ - TextFields
  

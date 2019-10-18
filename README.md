@@ -31,4 +31,5 @@ In this bundle i have worked on swiftUI and its many characterstics. All these f
  - TextViews(styles, fonts, colors, lineSpacing)
  - Static labels with TextViews
  - TextFields(borders, format text inside)
+ - Lists of Static items
  

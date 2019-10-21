@@ -33,5 +33,7 @@ In this bundle i have worked on swiftUI and its many characterstics. All these f
  - TextFields(borders, format text inside)
  - Lists of Static items
  - SliderViews
+ - Toggle Button
+ - Tappable Button
  
 

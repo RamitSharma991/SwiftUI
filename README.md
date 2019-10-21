@@ -36,6 +36,7 @@ In this bundle i have worked on swiftUI and its many characterstics. All these f
  - Toggle Button
  - Tappable Button
  - Dynamic List
+ - TapGestures
  
  
 

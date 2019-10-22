@@ -6,7 +6,6 @@
   
 ![](https://github.com/RamitSharma991/SwiftUI/blob/master/Screenshot%202019-10-17%20at%2010.33.09%20AM.png)
 
-
 </p>
 
 

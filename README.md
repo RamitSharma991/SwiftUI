@@ -37,5 +37,6 @@ In this bundle i have worked on swiftUI and its many characterstics. All these f
  - TapGestures
  - Date Picker
  - Grouped Lists
+ - Implicit Animations
   
  

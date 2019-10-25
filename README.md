@@ -17,7 +17,7 @@
 </p>
 
 <p>
-In this bundle i have worked on swiftUI and its many characterstics. All these features are usd in various projects in this bundle. The features used are given as follows:
+In this bundle i have learnt and worked on swiftUI and its many characterstics. All these features are usd in various projects in this bundle. The features used are given as follows:
 </p>
 
 

@@ -42,4 +42,4 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Animating bindings
  - Explicit Animations
  - Animation stacks
-  
+ - Gestures : Animating gestures

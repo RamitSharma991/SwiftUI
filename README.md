@@ -39,5 +39,6 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Grouped Lists
  - Implicit Animations
  - Customizing Animations
+ - Animating bindings
   
   

@@ -40,5 +40,5 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Implicit Animations
  - Customizing Animations
  - Animating bindings
-  
+ - Explicit Animations
   

@@ -43,6 +43,6 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Explicit Animations
  - Animation stacks
  - Gestures : Animating gestures
- 
+ - Showing/Hiding Animation views
  
  

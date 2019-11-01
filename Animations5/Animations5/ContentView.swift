@@ -36,6 +36,11 @@ struct ContentView: View {
                 .frame(width: 200, height: 300)
                     .transition(.pivot)
 //                    .transition(.asymmetric(insertion: .scale, removal: .opacity))
+                //
+                //
+                //
+                //
+                
             }
         }
     }

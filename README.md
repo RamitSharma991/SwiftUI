@@ -45,5 +45,6 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Gestures : Animating gestures
  - Showing/Hiding Animation views
  - Custom transitions using ViewModifier
- - UserDefaults
+ - UserDefaults for storing user settings
+ - Codable for archiving swift objects
 

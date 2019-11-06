@@ -47,4 +47,5 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Custom transitions using ViewModifier
  - UserDefaults for storing user settings
  - Codable for archiving swift objects
+ - @State for Structs
 

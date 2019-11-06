@@ -49,4 +49,7 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Codable for archiving swift objects
  - @State for Structs
  - @ObservedObject for sharing swiftui state
+ - OnDelete()
+ - Lists to delete from
+ -
 

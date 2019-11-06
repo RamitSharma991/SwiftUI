@@ -51,5 +51,5 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - @ObservedObject for sharing swiftui state
  - OnDelete()
  - Lists to delete from
- -
+ - Identifiable, Codable
 

@@ -52,6 +52,5 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - OnDelete()
  - Lists to delete from
  - Identifiable, Codable
-
-
+ - Image Resizing
 

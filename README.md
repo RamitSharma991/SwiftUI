@@ -54,6 +54,7 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Identifiable, Codable
  - Image Resizing with Geometry Reader
  - Scrollview 
+ - Using Stacks to push Views with Navigation Link
 
 
 

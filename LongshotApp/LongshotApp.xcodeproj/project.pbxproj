@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3164B0512379616500F638CD /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3164B0502379616500F638CD /* MissionView.swift */; };
 		31EA2BE1237553360050C5B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BE0237553360050C5B6 /* AppDelegate.swift */; };
 		31EA2BE3237553360050C5B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BE2237553360050C5B6 /* SceneDelegate.swift */; };
 		31EA2BE6237553360050C5B6 /* LongshotApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BE4237553360050C5B6 /* LongshotApp.xcdatamodeld */; };
@@ -18,9 +19,11 @@
 		31EA2BFA23756ACE0050C5B6 /* as.json in Resources */ = {isa = PBXBuildFile; fileRef = 31EA2BF823756ACD0050C5B6 /* as.json */; };
 		31EA2BFC23756EA50050C5B6 /* Astronaut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BFB23756EA50050C5B6 /* Astronaut.swift */; };
 		31EA2BFE23756F020050C5B6 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BFD23756F020050C5B6 /* Bundle-Decodable.swift */; };
+		31EA2C002375761E0050C5B6 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BFF2375761E0050C5B6 /* Mission.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3164B0502379616500F638CD /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		31EA2BDD237553360050C5B6 /* LongshotApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LongshotApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31EA2BE0237553360050C5B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		31EA2BE2237553360050C5B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -34,6 +37,7 @@
 		31EA2BF823756ACD0050C5B6 /* as.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = as.json; sourceTree = "<group>"; };
 		31EA2BFB23756EA50050C5B6 /* Astronaut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronaut.swift; sourceTree = "<group>"; };
 		31EA2BFD23756F020050C5B6 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		31EA2BFF2375761E0050C5B6 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,7 @@
 				31EA2BE0237553360050C5B6 /* AppDelegate.swift */,
 				31EA2BE2237553360050C5B6 /* SceneDelegate.swift */,
 				31EA2BE7237553360050C5B6 /* ContentView.swift */,
+				31EA2BFF2375761E0050C5B6 /* Mission.swift */,
 				31EA2BFB23756EA50050C5B6 /* Astronaut.swift */,
 				31EA2BFD23756F020050C5B6 /* Bundle-Decodable.swift */,
 				31EA2BE9237553390050C5B6 /* Assets.xcassets */,
@@ -78,6 +83,7 @@
 				31EA2BF823756ACD0050C5B6 /* as.json */,
 				31EA2BF723756ACD0050C5B6 /* missions.json */,
 				31EA2BEB237553390050C5B6 /* Preview Content */,
+				3164B0502379616500F638CD /* MissionView.swift */,
 			);
 			path = LongshotApp;
 			sourceTree = "<group>";
@@ -164,10 +170,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				31EA2BE1237553360050C5B6 /* AppDelegate.swift in Sources */,
+				3164B0512379616500F638CD /* MissionView.swift in Sources */,
 				31EA2BE6237553360050C5B6 /* LongshotApp.xcdatamodeld in Sources */,
 				31EA2BFC23756EA50050C5B6 /* Astronaut.swift in Sources */,
 				31EA2BE8237553360050C5B6 /* ContentView.swift in Sources */,
 				31EA2BE3237553360050C5B6 /* SceneDelegate.swift in Sources */,
+				31EA2C002375761E0050C5B6 /* Mission.swift in Sources */,
 				31EA2BFE23756F020050C5B6 /* Bundle-Decodable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

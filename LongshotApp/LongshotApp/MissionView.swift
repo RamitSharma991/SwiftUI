@@ -10,7 +10,14 @@ import SwiftUI
 
 struct MissionView: View {
     
+    struct CrewMember {
+        let tole: String
+        let astronaut: Astronaut
+    }
+    
     let mission: Mission
+    let astronauts: [CrewMember]
+    
     var body: some View {
         GeometryReader { geometry in
             ScrollView(.vertical) {
@@ -35,6 +42,6 @@ struct MissionView: View {
 struct MissionView_Previews: PreviewProvider {
     static let missions: [Mission] = Bundle.main.decode("missions.json")
     static var previews: some View {
-        MissionView(mission: missions[0])
+        MissionView(mission: missions[0], astronauts: <#[MissionView.CrewMember]#>)
     }
 }

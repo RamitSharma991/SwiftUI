@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3164B0512379616500F638CD /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3164B0502379616500F638CD /* MissionView.swift */; };
+		3164B053237AB96B00F638CD /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3164B052237AB96B00F638CD /* AstronautView.swift */; };
 		31EA2BE1237553360050C5B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BE0237553360050C5B6 /* AppDelegate.swift */; };
 		31EA2BE3237553360050C5B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BE2237553360050C5B6 /* SceneDelegate.swift */; };
 		31EA2BE6237553360050C5B6 /* LongshotApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 31EA2BE4237553360050C5B6 /* LongshotApp.xcdatamodeld */; };
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		3164B0502379616500F638CD /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		3164B052237AB96B00F638CD /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 		31EA2BDD237553360050C5B6 /* LongshotApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LongshotApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31EA2BE0237553360050C5B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		31EA2BE2237553360050C5B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,7 +75,9 @@
 				31EA2BE0237553360050C5B6 /* AppDelegate.swift */,
 				31EA2BE2237553360050C5B6 /* SceneDelegate.swift */,
 				31EA2BE7237553360050C5B6 /* ContentView.swift */,
+				3164B052237AB96B00F638CD /* AstronautView.swift */,
 				31EA2BFF2375761E0050C5B6 /* Mission.swift */,
+				3164B0502379616500F638CD /* MissionView.swift */,
 				31EA2BFB23756EA50050C5B6 /* Astronaut.swift */,
 				31EA2BFD23756F020050C5B6 /* Bundle-Decodable.swift */,
 				31EA2BE9237553390050C5B6 /* Assets.xcassets */,
@@ -83,7 +87,6 @@
 				31EA2BF823756ACD0050C5B6 /* as.json */,
 				31EA2BF723756ACD0050C5B6 /* missions.json */,
 				31EA2BEB237553390050C5B6 /* Preview Content */,
-				3164B0502379616500F638CD /* MissionView.swift */,
 			);
 			path = LongshotApp;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				31EA2BE1237553360050C5B6 /* AppDelegate.swift in Sources */,
+				3164B053237AB96B00F638CD /* AstronautView.swift in Sources */,
 				3164B0512379616500F638CD /* MissionView.swift in Sources */,
 				31EA2BE6237553360050C5B6 /* LongshotApp.xcdatamodeld in Sources */,
 				31EA2BFC23756EA50050C5B6 /* Astronaut.swift in Sources */,

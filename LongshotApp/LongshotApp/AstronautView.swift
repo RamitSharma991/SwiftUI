@@ -21,6 +21,7 @@ struct AstronautView: View {
                         .frame(width: geometry.size.width)
                     Text(self.astronaut.description)
                     .padding()
+                    .layoutPriority(1)
                 }
             }
             

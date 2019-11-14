@@ -59,3 +59,4 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Using Generics to load Codable data
  - Merging codable Structs
  - buttonStyles and layout priority
+ - Custom Paths

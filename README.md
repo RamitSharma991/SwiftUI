@@ -62,3 +62,4 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Custom Paths with SwiftUI
  - Shapes vs Paths 
  - StrokeBorders
+ - Insettable Shapes

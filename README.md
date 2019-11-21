@@ -66,4 +66,5 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - CGAffine-Transforms
  - ImagePaint for creative borders
  - Color Blending, BlendingModes
+ - Blur
  

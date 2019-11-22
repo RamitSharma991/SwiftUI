@@ -69,6 +69,7 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Color Blending, BlendingModes
  - Blur and Saturation
  - Animating with animatableData
+ - Complex shapes with AnimatablePair
  - Creating a Spirograph with SwiftUI
  
  

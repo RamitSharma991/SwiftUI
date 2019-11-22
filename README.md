@@ -65,6 +65,7 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Insettable Shapes
  - CGAffine-Transforms
  - ImagePaint for creative borders
+ - Enabling high performance
  - Color Blending, BlendingModes
  - Blur and Saturation
  - Animating with animatableData

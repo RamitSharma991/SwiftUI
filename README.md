@@ -71,5 +71,3 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Animating with animatableData
  - Complex shapes with AnimatablePair
  - Creating a Spirograph with SwiftUI
- 
- 

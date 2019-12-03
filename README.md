@@ -72,6 +72,7 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Complex shapes with AnimatablePair
  - Creating a Spirograph with SwiftUI
  - Adding Codable conformance for @Published properties
+ - Conditional Checkout after validation of computed properties
  
 
 

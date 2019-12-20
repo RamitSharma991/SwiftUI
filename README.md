@@ -75,4 +75,4 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Conditional Checkout after validation of computed properties
  - Encoding @ObservableObject class
  - Decoding/Encoding JSON data for data transfer online
- 
+ - Custom Components with @Binding 

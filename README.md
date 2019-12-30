@@ -76,5 +76,5 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Encoding @ObservableObject class
  - Decoding/Encoding JSON data for data transfer online
  - Custom Components with @Binding 
- - size classes with AnyView
+ - size classes with AnyView, @Environment
  

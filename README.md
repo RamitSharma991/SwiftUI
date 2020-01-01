@@ -77,3 +77,4 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Decoding/Encoding JSON data for data transfer online
  - Custom Components with @Binding 
  - size classes with AnyView type erasure, @Environment
+ - combine core Data and swiftUI

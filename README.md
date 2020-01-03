@@ -80,4 +80,3 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - combine core Data and swiftUI
  - Creating entities with Core Data
 
-

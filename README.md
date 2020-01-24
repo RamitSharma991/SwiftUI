@@ -80,4 +80,4 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Creating entities with Core Data
  - Adding Star ratings to components
  - Building a list with @FetchRequest
- - Sorting fetch requests with NSSortDescriptor 
+ - Sorting fetch requests with NSSortDescriptor

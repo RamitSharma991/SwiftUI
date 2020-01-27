@@ -84,4 +84,3 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Deleting from a Core Data fetch request
  - Using an alert to pop a NavigationLink programmatically
  
-

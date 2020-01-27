@@ -81,3 +81,4 @@ In this bundle i have learnt and worked on swiftUI and its many characterstics. 
  - Adding Star ratings to components
  - Building a list with @FetchRequest
  - Sorting fetch requests with NSSortDescriptor
+

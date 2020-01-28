@@ -1,6 +1,5 @@
 # Introduction to SwiftUI
 
-
 <p align="center">
   
   

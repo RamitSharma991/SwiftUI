@@ -82,5 +82,6 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Sorting fetch requests with NSSortDescriptor
  - Deleting from a Core Data fetch request
  - Using an alert to pop a NavigationLink programmatically
+ - forEach and use of \.self
  
 

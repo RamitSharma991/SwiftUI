@@ -85,4 +85,5 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - forEach and use of \.self
  - Creating NSManagedObject subclasses
  - Conditional saving of NSManagedObjecContext
+ - Ensuring Core Data objects are unique using constraints
  

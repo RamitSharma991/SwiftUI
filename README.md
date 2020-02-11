@@ -87,4 +87,4 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Conditional saving of NSManagedObjecContext
  - Ensuring Core Data objects are unique using constraints
  - Filtering @FetchRequest using NSPredicate
- 
+ - Dynamically filtering @FetchRequest with SwiftUI

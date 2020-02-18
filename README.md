@@ -90,5 +90,6 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Dynamically filtering @FetchRequest with SwiftUI
  - One-to-many relationships with Core Data, SwiftUI, and @FetchRequest
  -  wrappers becoming structs
+ -  Creating custom bindings in SwiftUI
  
  

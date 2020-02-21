@@ -93,6 +93,7 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  -  Creating custom bindings in SwiftUI
  - Showing multiple options with ActionSheet
  - Integrating Core Image with SwiftUI
+ - Using coordinators to manage SwiftUI view controllers
 
 
 

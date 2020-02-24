@@ -96,5 +96,3 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Using coordinators to manage SwiftUI view controllers
 
 
-
-

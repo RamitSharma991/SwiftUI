@@ -95,5 +95,7 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Integrating Core Image with SwiftUI
  - Using coordinators to manage SwiftUI view controllers
  - How to save images to the user’s photo library
+ - Importing an image into SwiftUI using UIImagePickerController
+ 
 
 

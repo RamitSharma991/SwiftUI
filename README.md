@@ -98,5 +98,7 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Importing an image into SwiftUI using UIImagePickerController
  - Basic image filtering using Core Image
  - Saving the filtered images
+ - Adding conformance to Comparable for custom types
+
  
 

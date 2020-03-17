@@ -101,7 +101,6 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Adding conformance to Comparable for custom types
  - Writing data to the documents directory
  - Switching view states with enums
-
-
-
-
+ -
+ 
+ 

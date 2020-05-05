@@ -105,6 +105,7 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  
  
  - Gestures in SwiftUI
+ - Vibrations with Core Haptics
 
 
 

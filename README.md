@@ -1,4 +1,4 @@
-# Introduction to SwiftUI
+# SwiftUI
 
 <p align="center">
   
@@ -109,6 +109,7 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Gestures in SwiftUI
  - Vibrations with Core Haptics
  - Triggering events repeatedly using a timer
+ - Getting notified when SwiftUI app moves to the background 
 
 
 

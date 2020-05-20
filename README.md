@@ -110,6 +110,8 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Vibrations with Core Haptics
  - Triggering events repeatedly using a timer
  - Getting notified when SwiftUI app moves to the background 
+ - Supporting specific accessibility needs with SwiftUI
+
 
 
 

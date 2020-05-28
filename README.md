@@ -102,9 +102,6 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Writing data to the documents directory
  - Switching view states with enums
  -
- 
-
-
  - Gestures in SwiftUI
  - Vibrations with Core Haptics
  - Triggering events repeatedly using a timer

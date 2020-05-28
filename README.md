@@ -111,6 +111,7 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Getting notified when SwiftUI app moves to the background 
  - Supporting specific accessibility needs with SwiftUI
  - Drag Gestures and Offsets
+ - Coloring views (accessible for color blindness) 
 
 
 

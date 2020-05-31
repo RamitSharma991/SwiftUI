@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/SWIFT-5.1-brightgreen.svg" />
 
 </p>
-
 <p>
 In this bundle i have worked on and learnt swiftUI and its many characterstics. All these features are used in various projects in this bundle. The features used are given as follows:
 </p>

@@ -109,6 +109,7 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Drag Gestures and Offsets
  - Coloring views (accessible for color blindness) 
  - Counting down with a Timer
+ - Using allowsHitTesting() 
 
 
 

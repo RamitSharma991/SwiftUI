@@ -16,6 +16,7 @@
 		31A7B4BF245FE8F500CBF6AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31A7B4BE245FE8F500CBF6AD /* Assets.xcassets */; };
 		31A7B4C2245FE8F500CBF6AD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31A7B4C1245FE8F500CBF6AD /* Preview Assets.xcassets */; };
 		31A7B4C5245FE8F500CBF6AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31A7B4C3245FE8F500CBF6AD /* LaunchScreen.storyboard */; };
+		31D165EE2490D3EB0010F994 /* EditCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D165ED2490D3EB0010F994 /* EditCards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		31A7B4C1245FE8F500CBF6AD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		31A7B4C4245FE8F500CBF6AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		31A7B4C6245FE8F500CBF6AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31D165ED2490D3EB0010F994 /* EditCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditCards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				31A7B4B7245FE8F300CBF6AD /* SceneDelegate.swift */,
 				31A7B4BC245FE8F300CBF6AD /* ContentView.swift */,
 				314494B124779C5D001D60D3 /* Card.swift */,
+				31D165ED2490D3EB0010F994 /* EditCards.swift */,
 				314494B524779E77001D60D3 /* CardView.swift */,
 				31A7B4BE245FE8F500CBF6AD /* Assets.xcassets */,
 				31A7B4C3245FE8F500CBF6AD /* LaunchScreen.storyboard */,
@@ -158,6 +161,7 @@
 				31A7B4BB245FE8F300CBF6AD /* Flashzilla.xcdatamodeld in Sources */,
 				31A7B4B6245FE8F300CBF6AD /* AppDelegate.swift in Sources */,
 				314494B224779C5D001D60D3 /* Card.swift in Sources */,
+				31D165EE2490D3EB0010F994 /* EditCards.swift in Sources */,
 				31A7B4BD245FE8F300CBF6AD /* ContentView.swift in Sources */,
 				314494B624779E77001D60D3 /* CardView.swift in Sources */,
 				31A7B4B8245FE8F300CBF6AD /* SceneDelegate.swift in Sources */,

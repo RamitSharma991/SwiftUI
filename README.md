@@ -112,7 +112,7 @@ In this bundle i have worked on and learnt swiftUI and its many characterstics. 
  - Counting down with a Timer
  - Using allowsHitTesting() 
  - Make iPhones vibrate with UINotificationFeedbackGenerator 
-
+ - Layout and Alignments in Swift
 
 
 
